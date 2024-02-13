@@ -4,7 +4,6 @@ namespace VideoSharp;
 
 public static partial class Video
 {
-
     /// <summary>
     /// Gets the process instance template for FFprobe
     /// </summary>
