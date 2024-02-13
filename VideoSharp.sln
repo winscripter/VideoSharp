@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoSharp", "VideoSharp\VideoSharp.csproj", "{55597713-724C-4489-9646-D604181FD69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55597713-724C-4489-9646-D604181FD69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55597713-724C-4489-9646-D604181FD69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55597713-724C-4489-9646-D604181FD69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55597713-724C-4489-9646-D604181FD69E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5434ED23-E99A-4D3C-993B-9F90B118B5FD}
+	EndGlobalSection
+EndGlobal
