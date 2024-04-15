@@ -1,6 +1,6 @@
 # VideoSharp is no longer being maintained!
 VideoSharp is not maintained anymore, despite the fact it's a new library. *It is for a good reason, though*!
-Try [dotnetVEE](github.com/winscripter/dotnetVEE). It is a new Video Editing library and is maintained. It is a lot more
+Try [dotnetVEE](https://github.com/winscripter/dotnetVEE). It is a new Video Editing library and is maintained. It is a lot more
 powerful than VideoSharp and has the same prerequisites.
 
 # VideoSharp
